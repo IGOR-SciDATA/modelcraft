@@ -45,30 +45,13 @@ O ModelCraft hoje ainda está em versão de testes:
 | TESTE | Apenas alguns usuários selecionados, a fim de melhorarmos antes do release oficial |
 | SOLICITAR | Caso tenha interesse em participar do beta fechado, só entrar em contato através do perfil. |
 
-## Instalação — versão 0.1.0
+## Download e instalação
 
-Os instaladores Windows x64 estão publicados na página de [Releases](https://github.com/IGOR-SciDATA/modelcraft/releases/tag/v0.1.0):
+A distribuição do ModelCraft 0.1.0 será disponibilizada pelo **Google Drive**, em uma pasta única contendo o instalador do aplicativo e os arquivos necessários dos motores de IA.
 
-- **ModelCraft Software** — instala o aplicativo desktop e o runtime.
-- **ModelCraft Models** — instalador auxiliar dos motores e pesos de IA.
+**Link para download:** será publicado aqui assim que o envio e o compartilhamento da pasta forem concluídos.
 
-> **Atenção — pacote de modelos ainda não disponível nesta Release.** O instalador ModelCraft Models precisa da pasta `payload_models` (aproximadamente 11,44 GB) ao lado do MSI. Essa pasta não foi anexada à Release porque o envio dos volumes grandes não foi confirmado pelo GitHub. Portanto, por enquanto, instale apenas o MSI do software. Não execute o MSI ModelCraft Models sem o pacote completo.
-
-Quando o pacote completo de modelos estiver disponível, a instalação seguirá estes passos:
-
-1. Baixe todos os volumes do pacote de modelos para a mesma pasta.
-2. Extraia o volume inicial com 7-Zip para reconstruir a pasta `payload_models`.
-3. Execute `ModelCraft-Software-Setup-0.1.0-x64.msi`.
-4. Mantenha `payload_models` ao lado de `ModelCraft-Models-Setup-0.1.0-x64.msi` e execute esse segundo instalador.
-5. Aguarde a cópia dos motores e pesos terminar e abra o ModelCraft pelo atalho criado.
-
-**Requisitos importantes**
-- Windows 64-bit.
-- A pasta de modelos ocupa aproximadamente **11,44 GB**; reserve espaço adicional para a cópia durante a instalação.
-- O Blender não está incluído. Instale-o separadamente caso pretenda utilizar os recursos que dependem dele.
-- Os hashes SHA-256 dos dois instaladores estão disponíveis na Release.
-
-Consulte o arquivo `LEIA-ME-INSTALACAO.txt` incluído nos assets da Release.
+O pacote de modelos ocupa aproximadamente **11,44 GB**. Reserve espaço adicional para a instalação. O Blender não está incluído e deverá ser instalado separadamente para os recursos que dependem dele.
 
 ## Licenças e modelos
 
