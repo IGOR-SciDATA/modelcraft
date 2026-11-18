@@ -38,15 +38,12 @@ A proposta é permitir que o usuário trabalhe com processamento local, sem depe
 
 ## Como funciona
 
-O ModelCraft oferece estratégias diferentes, que não devem ser confundidas:
+O ModelCraft hoje ainda está em versão de testes:
 
 | Modo | Abordagem |
 |---|---|
-| CPU local 2.5D | Preserva a vista frontal e cria relevo/extrusão. Não recupera o volume real nem as faces ocultas. |
-| Modelado ONNX | Reconstrução volumétrica baseada em TripoSR via ONNX Runtime FP32 em CPU. |
-| Multivista | Usa silhuetas de fotografias de ângulos diferentes para construir uma geometria aproximada. |
-
-Uma única fotografia não contém dados suficientes para revelar o verso, cavidades ocultas ou dimensões físicas exatas. Nessas regiões, o motor precisa estimar ou sintetizar informação. Sempre inspecione a geometria, as texturas e as partes ocultas antes de usar o asset em produção.
+| TESTE | Apenas alguns usuários selecionados, a fim de melhorarmos antes do release oficial |
+| SOLICITAR | Caso tenha interesse em participar do beta fechado, só entrar em contato através do perfil. |
 
 ## Instalação — versão 0.1.0
 
