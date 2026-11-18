@@ -48,7 +48,7 @@ O ModelCraft hoje ainda está em versão de testes:
 
 A distribuição do ModelCraft 0.1.0 será disponibilizada pelo **Google Drive**, em uma pasta única contendo o instalador do aplicativo e os arquivos necessários dos motores de IA.
 
-**Link para download:** será publicado aqui assim que o envio e o compartilhamento da pasta forem concluídos.
+**Link para download:** [ModelCraft v0.1.0](https://drive.google.com/drive/folders/15EZ_h7eqiw3kXH2g_MfYRogdmTE7uF25?usp=sharing)
 
 O pacote de modelos ocupa aproximadamente **11,44 GB**. Reserve espaço adicional para a instalação. O Blender não está incluído e deverá ser instalado separadamente para os recursos que dependem dele.
 
