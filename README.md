@@ -3,7 +3,6 @@
   <h1>ModelCraft</h1>
   <p><strong>Transforme imagens em assets 3D — localmente, com controle sobre o seu fluxo.</strong></p>
   <p>
-    <a href="https://github.com/IGOR-SciDATA/modelcraft/releases">Downloads</a> ·
     <a href="https://github.com/IGOR-SciDATA/modelcraft/issues">Reportar problema</a>
   </p>
   <p>
